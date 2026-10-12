@@ -4,6 +4,8 @@ coverage/
 # Local architecture notes and repository-specific working instructions.
 /design/
 /.agents/development/
+/ai-baby*/
+examples/cutebaby/
 /AGENTS.md
 .nyc_output/
 .DS_Store
